@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Non",
+    "price": 2000,
+    "category": "cake & bakery",
+    "amount": 120
+  },
+  {
+    "id": 2,
+    "name": "Milk",
+    "price": 5000,
+    "category": "milk",
+    "amount": 7
+  },
+  {
+    "id": 3,
+    "name": "Beef",
+    "price": 82000,
+    "category": "meat",
+    "amount": 23
+  },
+  {
+    "id": 4,
+    "name": "Coca Cola",
+    "price": 9500,
+    "category": "water",
+    "amount": 87
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+    "price": 2500,
+    "category": "fruit & vegetable",
+    "amount": 67
+  },
+  {
+    "id": 6,
+    "name": "Chicken",
+    "price": 25000,
+    "category": "meat",
+    "amount": 14
+  },
+  {
+    "id": 7,
+    "name": "DoubleCheese",
+    "price": 26000,
+    "category": "burger",
+    "amount": 14
+  },
+  {
+    "id": 8,
+    "name": "DoubleBurger",
+    "price": 25000,
+    "category": "burger",
+    "amount": 14
+  }
+]
